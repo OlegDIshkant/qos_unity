@@ -1,0 +1,18 @@
+{
+    "name": "Qos.ClientServer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6aef82e2c923c9a49b7b7daae08dc845",
+        "GUID:1433c82134a6a0b4a9b7f0210bb4d35a",
+        "GUID:d26f301aa61798a44b9e9f1627ce32dd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

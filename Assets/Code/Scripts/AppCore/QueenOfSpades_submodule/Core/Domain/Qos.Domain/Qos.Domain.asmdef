@@ -1,0 +1,18 @@
+{
+    "name": "Qos.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d26f301aa61798a44b9e9f1627ce32dd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

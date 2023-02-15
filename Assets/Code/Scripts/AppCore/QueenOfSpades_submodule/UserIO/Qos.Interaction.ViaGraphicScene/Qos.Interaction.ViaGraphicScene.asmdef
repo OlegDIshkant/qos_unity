@@ -1,0 +1,23 @@
+{
+    "name": "Qos.Interaction.ViaGraphicScene",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6aef82e2c923c9a49b7b7daae08dc845",
+        "GUID:d26f301aa61798a44b9e9f1627ce32dd",
+        "GUID:b90717e7331e0f84fa1741a7978f1fad",
+        "GUID:007ed0fc5e9b44d499ae6850fea71c91",
+        "GUID:ea0eba1c9ae0b6f4ab66bfb10165039d",
+        "GUID:2b4f39396ed237b4b868df0b37e40438",
+        "GUID:8d61e8b12c149d043b490326eafdeee6",
+        "GUID:d908dbe52c9c663438320cb632cb5225"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

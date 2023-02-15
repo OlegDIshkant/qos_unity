@@ -1,0 +1,19 @@
+{
+    "name": "Qos",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6aef82e2c923c9a49b7b7daae08dc845",
+        "GUID:d26f301aa61798a44b9e9f1627ce32dd",
+        "GUID:1433c82134a6a0b4a9b7f0210bb4d35a",
+        "GUID:39f448465984a264f83ca37a6f48a173"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

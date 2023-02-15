@@ -1,0 +1,18 @@
+{
+    "name": "Qos.Interaction.ViaGraphicScene.SceneObjects",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6aef82e2c923c9a49b7b7daae08dc845",
+        "GUID:d26f301aa61798a44b9e9f1627ce32dd",
+        "GUID:b90717e7331e0f84fa1741a7978f1fad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

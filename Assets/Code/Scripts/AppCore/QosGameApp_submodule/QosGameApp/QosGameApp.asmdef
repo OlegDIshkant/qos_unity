@@ -1,0 +1,26 @@
+{
+    "name": "QosGameApp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:007ed0fc5e9b44d499ae6850fea71c91",
+        "GUID:1fcf893e68d713a479829073c3d72cfe",
+        "GUID:6aef82e2c923c9a49b7b7daae08dc845",
+        "GUID:1433c82134a6a0b4a9b7f0210bb4d35a",
+        "GUID:eb3fb1c73cec74549b428855d62aaba1",
+        "GUID:9d3f25ae675832148beb5e32b2accba0",
+        "GUID:2e06776d3708e244c8600a7bbabf99cd",
+        "GUID:ee888c1726ef9a341bce9f3dab7839f0",
+        "GUID:ea0eba1c9ae0b6f4ab66bfb10165039d",
+        "GUID:2b4f39396ed237b4b868df0b37e40438",
+        "GUID:d26f301aa61798a44b9e9f1627ce32dd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
